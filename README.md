@@ -9,10 +9,15 @@ and data visualization tools** like **Power BI** and **Tableau**. I enjoy solvin
 
 I have worked on various projects, including:
 
-- **Property Data Extraction**: Extracted data from over 100 files and transformed it as per customer specifications using an inhouse ETL tool.
-- **Sales Performance Assessment**: Analyzed a retail chain's sales performance to identify key improvement areas.
-- **Bank Loan Analysis**: Developed SQL queries to evaluate loan default rates, improving risk management strategies for the bank.
-- **HR Analytics Project**: Provided insights into employee turnover and retention, enabling better workforce planning.
+- **Property Data Extraction**:
+  Extracted, transformed, and loaded US property data (owner info, property value, taxes, etc.) from over 100 CSV and text files into SQL Server using an inhouse ETL tool.
+  The data was used by mortgage companies to assess loan eligibility. Automated processes led to a 30% overall TAT reduction.
+- **Sales Performance Assessment**:
+  Analyzed a retail chain's sales performance to identify key improvement areas.
+- **Bank Loan Analysis**:
+  Developed SQL queries to evaluate loan default rates, improving risk management strategies for the bank.
+- **HR Analytics Project**:
+  Provided insights into employee turnover and retention, enabling better workforce planning.
 
 Additionally, I have led a team of 25 employees, automated data processes, and streamlined workflows, saving time and improving accuracy across departments.
 
